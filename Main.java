@@ -26,9 +26,9 @@ class Main {
 
   public static void main(String[] args) {
     imprimirEncabezado();
-    imprimirSeparador();
+    //imprimirSeparador();
     imprimirFrases();
-    imprimirSeparador();
+    //imprimirSeparador();
     imprimirPie();
   }
 }
